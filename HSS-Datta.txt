@@ -1,0 +1,15 @@
+
+
+
+
+public static void main(String[]args) {
+
+sysout("This is the main method") ;
+
+
+
+public void add(){
+
+sysout("This ") ;
+
+}
